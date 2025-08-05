@@ -14,6 +14,8 @@ This is an Angular 18 application that displays an interactive world map where u
 
 ## Overview
 
+https://world-map-app-tawny.vercel.app/map
+
 The WorldMap application is a standalone Angular application that presents an SVG-based world map. When users hover over a country, the application fetches and displays relevant data including capital city, income level, region, and geographical coordinates.
 
 **Key Features:**
